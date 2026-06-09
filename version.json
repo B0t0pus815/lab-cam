@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "apkUrl": "https://github.com/B0t0pus815/lab-cam/raw/main/app-release.apk",
-  "notes": "回放时间轴可滚动+缩放(精细拖拽)、直播延迟再降低"
+  "notes": "新增「快速查看」(每12h快照按日期浏览)、回放可选任意日期(按需转码)"
 }
