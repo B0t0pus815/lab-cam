@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/B0t0pus815/lab-cam/raw/main/app-release.apk",
+  "notes": "直播改为标准 HLS、加入 App 内自动更新"
+}
