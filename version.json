@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apkUrl": "https://github.com/B0t0pus815/lab-cam/raw/main/app-release.apk",
-  "notes": "直播/回放可一键静音(会记住)"
+  "notes": "全新App图标、界面图标统一、时间轴拖动更顺(修卡顿)"
 }
