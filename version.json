@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apkUrl": "https://github.com/B0t0pus815/lab-cam/raw/main/app-release.apk",
-  "notes": "回放时间轴改为按天显示(录影累积也不卡)、修边界跳转问题"
+  "notes": "新增校外连线(Cloudflare通道+密码),设定主机里切校内/校外"
 }
