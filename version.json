@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "1.10",
   "apkUrl": "https://github.com/B0t0pus815/lab-cam/raw/main/app-release.apk",
-  "notes": "新增校外连线(Cloudflare通道+密码),设定主机里切校内/校外"
+  "notes": "界面更直觉:LIVE标示、回放最新键、时间轴拖曳提示、倍速/缩放标注、设定完成键"
 }
